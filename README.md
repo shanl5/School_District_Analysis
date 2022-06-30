@@ -53,32 +53,32 @@ These are labelled below as "Image D<#>," where <#> represents one of the number
 
 Though most metrics for other schools and grades remain unchanged by the re-analysis precipitated by evidence of academic dishonesty for the ninth grade reading and math scores for THS, some changes are to be noted, some with greater variation than others as far as percentage change in before and after value.  In particular, checking these tables reveals a value(s) from before the re-analysis that changes afterwards:
 
- [+] District-level school metrics summary
+ [x] District-level school metrics summary
 	
 	Both the math and reading scores and all the passing percentages change by either tenths
 	or hundredths of their respective values.(see image a below)
 
  image a: ![image a](https://github.com/shanl5/School_District_Analysis/blob/main/Resources/images/Screenshot_2022-06-29__DistrictSummary__before-on-left-after-on-right.png)
 
- [+] School-level overview of key metrics
+ [x] School-level overview of key metrics
 
 	For THS, both the math and reading scores and all the passing percentages change by either tenths
 	or hundredths of their respective values.(see image b below)
 
  image b: ![image b](https://github.com/shanl5/School_District_Analysis/blob/main/Resources/images/Screenshot_2022-06-29__SchoolLevelSummary__before-on-top-after-on-bottom.png)
 
- [+] Top 5 performing schools based on overall passing rate
+ [x] Top 5 performing schools based on overall passing rate
  
 	As THS is the second on the top-5 list, the math and reading scores and all the percentages change
 	correspondingly for the before and after pics. (see image c below)
 
  image c: ![image c](https://github.com/shanl5/School_District_Analysis/blob/main/Resources/images/Screenshot_2022-06-29__Top5-on-top_Bottom5-on-bottom__before-on-left-after-on-right.png)
 
- [  ]  Bottom 5 performing schools based on overall passing rate
+ [ ]  Bottom 5 performing schools based on overall passing rate
 
 	*No change (image c above)*
 
- [+] Average scores for math and reading for students at each grade level in each school
+ [x] Average scores for math and reading for students at each grade level in each school
 
 	The THS ninth grade scores become "NaN." (see image d below)
 
@@ -90,7 +90,7 @@ Though most metrics for other schools and grades remain unchanged by the re-anal
 
  image e: ![image e](https://github.com/shanl5/School_District_Analysis/blob/main/Resources/images/Screenshot_2022-06-29__school-per-capita_spending_summary__before-on-left-after-on-right.png)
 
- [+] School performance based on school size
+ [x] School performance based on school size
 
 	Differences in before and after by at most hundredths of a value in the category of THS {Medium (1000-1999)}
 	(see image f below)
