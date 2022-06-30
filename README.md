@@ -37,7 +37,7 @@ These are labelled below as "Image D<#>," where <#> represents one of the number
 **Image D2-C1:** Top 5 and bottom 5 performing schools based on overall passing rate ![Image D2-C1](https://github.com/shanl5/School_District_Analysis/blob/main/Resources/images/Screenshot_2022-06-29_Top5-and-Bottom5_post-recode.png)
 
 **Image D2-C2:** Average scores for (a) math and (b) reading for students at each grade level in each school ![Image D2-C2(a)](https://github.com/shanl5/School_District_Analysis/blob/main/Resources/images/Screenshot_2022-06-29_by_school_average_math_scores_by_grade_post-recode.png)
-![Image D2-C2(b)](https://github.com/shanl5/School_District_Analysis/Resources/images/Screenshot_2022-06-29_by_school_average_reading_scores_by_grade_post-recode.png)
+![Image D2-C2(b)](https://github.com/shanl5/School_District_Analysis/blob/main/Resources/images/Screenshot_2022-06-29_by_school_average_reading_scores_by_grade_post-recode.png)
 
 
 **Image D2-C3:** School performance based on budget per student ![Image D2-C3](https://github.com/shanl5/School_District_Analysis/blob/main/Resources/images/Screenshot_2022-06-29_school_capita_spending_summary_df_post-recode.png)
